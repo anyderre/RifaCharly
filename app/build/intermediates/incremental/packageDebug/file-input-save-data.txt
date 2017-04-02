@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Apr 01 19:30:18 ADT 2017
+2.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+5.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=JAVA_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\ra.png
+5.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\doctor.png
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+10.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\com\\zj\\usbsdk\\PrintPic.java.bak
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\raffle.jpg
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+8.set=DEX
+0.set=ANDROID_RESOURCE

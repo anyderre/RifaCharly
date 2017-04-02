@@ -1,0 +1,296 @@
+[
+    {
+        "outputFile": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 46,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 46,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 42,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 42,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 41,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 41,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 56,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 56,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 54,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 54,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 45,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 45,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endColumn": 87,
+                    "endOffset": 542
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 87,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 547,
+                    "endColumn": 93,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 93,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 38,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 38,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 60,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 60,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 42,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 52,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1070
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1075,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "C:\\Users\\Dany\\AndroidStudioProjects\\USBDEMO1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
